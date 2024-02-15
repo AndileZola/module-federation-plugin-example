@@ -32,3 +32,7 @@ Have a look at this [article series about Module Federation](https://www.angular
 
 - [Angular Trainings and Workshops](https://www.angulararchitects.io/en/angular-workshops/)
 - [Angular Consulting](https://www.angulararchitects.io/en/consulting/)
+
+
+https://www.angulararchitects.io/en/blog/the-microfrontend-revolution-part-2-module-federation-with-angular/
+
